@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(231, 240, 212);
+    background-color:rgb(231, 134, 15);
 }
 header{
-    background-color: rgb(166, 231, 15);
+    background-color: rgb(15, 116, 231);
     padding: 30px;
     font-size: 25px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Impact, cursive
 }
 .main{
   
@@ -16,7 +16,7 @@ padding: 20px;
     padding: 40px;
     background-color: gray;
     box-sizing: border-box;
-    border: 2px solid rgb(93, 11, 11) ;
+    border: 2px solid rgb(11, 81, 93);
     box-shadow: 100px;
     text-align: center;
 
